@@ -2,7 +2,7 @@
 
 ![screenshot](/images/screenshot1.png)
 
-This Unity game was the result of a 72hour game jam (solo), Mini Jam 122. 3D assets were purchased from Synty Studios.
+This Unity game was the result of a 72hour game jam (solo), [Mini Jam 122](https://itch.io/jam/mini-jam-122-intermission). 3D assets were purchased from Synty Studios.
 
 ## Running the build
 

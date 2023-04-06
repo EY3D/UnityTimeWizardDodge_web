@@ -1,6 +1,6 @@
 # Time Wizard Dodge
 
-![screenshot](/images/screenshot1.jpg)
+![screenshot](/images/screenshot1.png)
 
 This Unity game was the result of a 72hour game jam (solo), Mini Jam 122. 3D assets were purchased from Synty Studios.
 
